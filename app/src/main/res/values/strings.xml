@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pantallasandroidec3</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_cancel_button">Cancel</string>
+    <string name="login_error_message">La contraseña debe contener al menos 6 carácteres</string>
+    <string name="settings">Perfil</string>
+
+</resources>
